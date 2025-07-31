@@ -1,3 +1,3 @@
 # m-demo
-this is my first repos
-athore-mukut.
+this is my first repos.
+Author-Mukut and Kawser.
